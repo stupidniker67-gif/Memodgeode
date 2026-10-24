@@ -1,0 +1,11 @@
+{
+    "geode": "v3.0.0",
+    "gd": {
+        "android": "2.206"
+    },
+    "id": "tunombre.hitbox-mod",
+    "name": "Hitbox Mod",
+    "version": "v1.0.0",
+    "developer": "stupidniker6767-gif",
+    "description": "Muestra hitboxes con colores."
+}
